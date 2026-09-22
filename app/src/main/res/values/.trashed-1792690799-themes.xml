@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.TCLStreamPlayer" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="Theme.TCLStreamPlayer.Player" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

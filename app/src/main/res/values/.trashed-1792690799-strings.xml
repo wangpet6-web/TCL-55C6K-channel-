@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stream Player</string>
+    <string name="loading">Loading channels…</string>
+    <string name="no_channels">No channels loaded. Press MENU to add a playlist URL.</string>
+    <string name="settings_title">Playlist Settings</string>
+    <string name="playlist_url_hint">M3U playlist URL (http/https)</string>
+    <string name="save">Save and Reload</string>
+    <string name="default_playlist_note">Enter the URL of any legal M3U/M3U8 playlist you have rights to use (e.g. a free-to-air public playlist, or your IPTV provider\'s playlist link).</string>
+</resources>
